@@ -6,7 +6,7 @@ I used the **Synthea synthetic dataset** because it closely mirrors real hospita
 
 ---
 
-## 🎯 What I Wanted to Explore
+##  What I Wanted to Explore
 
 - How are patients distributed across age groups, gender, and race?
 - What does the burden of chronic vs resolved conditions look like?
@@ -18,21 +18,18 @@ I used the **Synthea synthetic dataset** because it closely mirrors real hospita
 ## 📊 Dashboard Pages
 
 ### 1. Patient Overview
-![Patient Overview](screenshots/Screenshot_2026-06-09_221444.png)
 
 > 117 patients analyzed — seniors show significantly higher average healthcare expenses (0.41M) compared to other age groups, driven by chronic and inpatient cases.
 
 ---
 
 ### 2. Conditions and Encounters
-![Conditions and Encounters](screenshots/Screenshot_2026-06-09_221500.png)
 
 > Out of 4,023 total conditions, 70% were resolved and 30% are chronic. Ambulatory encounters dominate at 63%, with encounter volume peaking around 2018–2020.
 
 ---
 
 ### 3. Cost Analysis
-![Cost Analysis](screenshots/Screenshot_2026-06-09_221511.png)
 
 > Total healthcare cost stands at 27.09M. Payer coverage absorbs 76% of costs — but patients still bear 24% out of pocket, highlighting a significant financial burden.
 
@@ -40,15 +37,15 @@ I used the **Synthea synthetic dataset** because it closely mirrors real hospita
 
 ## 💡 Key Insights
 
-- 👴 Seniors cost **13x more** on average than children due to chronic and inpatient conditions
-- 📋 **70% of conditions resolve** — chronic disease management is still a major concern
-- 💰 Despite payer coverage, **patients pay 24% out of pocket** — a meaningful gap
-- 🏥 **Ambulatory care** dominates encounters, reflecting outpatient-first healthcare delivery
-- 📈 Encounter volume shows a sharp rise post-2000, peaking near 2020
+- Seniors cost **13x more** on average than children due to chronic and inpatient conditions
+- **70% of conditions resolve** — chronic disease management is still a major concern
+- Despite payer coverage, **patients pay 24% out of pocket** — a meaningful gap
+- **Ambulatory care** dominates encounters, reflecting outpatient-first healthcare delivery
+- Encounter volume shows a sharp rise post-2000, peaking near 2020
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -68,17 +65,17 @@ I used the **Synthea synthetic dataset** because it closely mirrors real hospita
 
 ---
 
-## 📌 Dataset
+##  Dataset
 
 - **117 patients** | **4,023 conditions** | **8,316 encounters**
 - Source: [Synthea by MITRE](https://synthea.mitre.org/) — open-source synthetic patient data that realistically models real-world hospital records
 
 ---
 
-## 🚀 What I Learned
+##  What I Learned
 
 Working with this dataset gave me a much clearer picture of how healthcare data is structured in the real world — from patient encounters and condition codes to cost breakdowns by payer. It also strengthened my ability to ask the right analytical questions and translate data into insights that matter in a clinical context.
 
 ---
 
-*Built by [Vandana Hegde](https://www.linkedin.com/in/vandanagh) — Allied Health Sciences graduate exploring the intersection of healthcare and data analytics*
+*Built by [Vandana Hegde](https://www.linkedin.com/in/vandanagh) —  exploring the intersection of healthcare and data analytics*
