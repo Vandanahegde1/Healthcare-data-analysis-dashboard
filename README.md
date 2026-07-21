@@ -36,7 +36,6 @@ Three pages:
 2. **Conditions and Encounters** — chronic vs. resolved condition breakdown, encounter type distribution, and encounter volume trends over time
 3. **Cost Analysis** — total healthcare costs, payer coverage vs. out-of-pocket split
 
-[Screenshot or link to dashboard]
 
 ## A Note on Methodology
 Working with this dataset clarified how healthcare data is structured in the real world — from patient encounters and condition codes to cost breakdowns by payer — and sharpened the ability to ask analytical questions that translate into insights with real clinical and financial relevance, rather than just descriptive statistics.
